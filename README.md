@@ -1,15 +1,13 @@
-# 深度学习在图像处理中的应用教程
+Tutorial on the application of deep learning in image processing
+Preface
 
-## 前言
-* 本教程是对本人研究生期间的研究内容进行整理总结，总结的同时也希望能够帮助更多的小伙伴。后期如果有学习到新的知识也会与大家一起分享。
-* 本教程会以视频的方式进行分享，教学流程如下：  
-1）介绍网络的结构与创新点  
-2）使用Pytorch进行网络的搭建与训练  
-3）使用Tensorflow（内部的keras模块）进行网络的搭建与训练 
-* 课程中所有PPT都放在`course_ppt`文件夹下，需要的自行下载。
-
-
-## 教程目录，点击跳转相应视频（后期会根据学习内容增加）
+     This tutorial is a summary of my research during my graduate studies. I hope it can help more friends while summarizing. If I learn new knowledge in the future, I will share it with everyone.
+     This tutorial will be shared in the form of a video. The teaching process is as follows:
+     1) Introduce the structure and innovation of the network
+     2) Use Pytorch to build and train the network
+     3) Use Tensorflow (internal keras module) to build and train the network
+     All PPTs in the course are placed in the course_ppt folder, and you can download them if necessary.
+## Tutorial directory, click to jump to the corresponding video (will be added later based on learning content)
 
 * 图像分类
   * LeNet（已完成）
