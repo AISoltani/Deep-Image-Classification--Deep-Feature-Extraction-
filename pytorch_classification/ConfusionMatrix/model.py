@@ -1,7 +1,6 @@
 from torch import nn
 import torch
 
-
 def _make_divisible(ch, divisor=8, min_ch=None):
     """
     This function is taken from the original tf repo.
