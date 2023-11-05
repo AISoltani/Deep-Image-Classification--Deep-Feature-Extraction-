@@ -92,9 +92,7 @@ class MobileNetV2(nn.Module):
         self.classifier = nn.Sequential(
             nn.Dropout(0.2),
             nn.Linear(last_channel, num_classes)
-        )
-
-        
+        )       
         # weight initialization
         for m in self.modules():
             if isinstance(m, nn.Conv2d):
