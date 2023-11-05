@@ -32,6 +32,8 @@ def main():
     with open(json_path, "r") as f:
         class_indict = json.load(f)
 
+
+    
     # create model
     model = create_regnet(model_name="RegNetY_400MF", num_classes=5).to(device)
     # load model weights
