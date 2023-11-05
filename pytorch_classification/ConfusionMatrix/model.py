@@ -94,6 +94,7 @@ class MobileNetV2(nn.Module):
             nn.Linear(last_channel, num_classes)
         )
 
+        
         # weight initialization
         for m in self.modules():
             if isinstance(m, nn.Conv2d):
