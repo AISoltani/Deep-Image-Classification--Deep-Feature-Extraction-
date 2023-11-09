@@ -8,7 +8,6 @@ Preface
      3) Use Tensorflow (internal keras module) to build and train the network
      All PPTs in the course are placed in the course_ppt folder, and you can download them if necessary.
 
-
 ## Tutorial directory, click to jump to the corresponding video (will be added later based on learning content)
 
 * 图像分类
