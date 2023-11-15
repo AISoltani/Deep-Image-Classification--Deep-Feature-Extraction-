@@ -10,7 +10,8 @@ Preface
 
 ## Tutorial directory, click to jump to the corresponding video (will be added later based on learning content)
 
-* 图像分类
+* CNN-Networks
+  
   * LeNet（已完成）
     * [Pytorch官方demo(Lenet)](https://www.bilibili.com/video/BV187411T7Ye)
     * [Tensorflow2官方demo](https://www.bilibili.com/video/BV1n7411T7o6)
