@@ -2,7 +2,6 @@ import torch
 import numpy as np
 import tensorflow as tf
 
-
 def rename_var(pth_path, new_ckpt_path, num_classes):
     pytorch_dict = torch.load(pth_path)
 
