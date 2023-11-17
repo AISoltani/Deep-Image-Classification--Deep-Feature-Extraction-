@@ -11,7 +11,6 @@ def rename_var(pth_path, new_ckpt_path, num_classes):
         for key, value in pytorch_dict.items():
             if key in except_list:
                 continue
-
             new_name = key
             value = value.detach().numpy()
 
