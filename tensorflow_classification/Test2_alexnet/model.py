@@ -1,6 +1,4 @@
 from tensorflow.keras import layers, models, Model, Sequential
-
-
 def AlexNet_v1(im_height=224, im_width=224, num_classes=1000):
     # tensorflow中的tensor通道排序是NHWC
     input_image = layers.Input(shape=(im_height, im_width, 3), dtype="float32")  # output(None, 224, 224, 3)
