@@ -2,7 +2,6 @@ import os
 from tqdm import tqdm
 from lxml import etree
 
-
 class VOCDataSet(object):
     def __init__(self, voc_root, year="2012", txt_name: str = "train.txt"):
         assert year in ["2007", "2012"], "year must be in ['2007', '2012']"
