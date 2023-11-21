@@ -1,7 +1,6 @@
 import os
 import sys
 import json
-
 import torch
 import torch.nn as nn
 from torchvision import transforms, datasets
@@ -9,7 +8,6 @@ import torch.optim as optim
 from tqdm import tqdm
 
 from model import vgg
-
 
 def main():
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
