@@ -8,7 +8,6 @@ import torch.nn as nn
 from torchvision import transforms, datasets
 import torch.optim as optim
 from tqdm import tqdm
-
 from model import vgg
 
 def main():
@@ -55,7 +54,6 @@ def main():
                                                   num_workers=nw)
     print("using {} images for training, {} images for validation.".format(train_num,
                                                                            val_num))
-
     # test_data_iter = iter(validate_loader)
     # test_image, test_label = test_data_iter.next()
 
