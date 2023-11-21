@@ -148,6 +148,7 @@ Preface
 
 --
 
+
 ## 所需环境
 * Anaconda3（建议使用）
 * python3.6/3.7/3.8
@@ -156,6 +157,7 @@ Preface
 * torchvision 0.11.1 (pip package)
 * tensorflow 2.4.1 (pip package)
 --
+
 
 欢迎大家关注下我的微信公众号（**阿喆学习小记**），平时会总结些相关学习博文。    
 
