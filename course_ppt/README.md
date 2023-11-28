@@ -39,7 +39,6 @@
 - **Calculate mAP** 链接: https://pan.baidu.com/s/1jdA_n78J7nSUoOg6TTO5Bg  密码: eh62
 - **coco数据集简介** 链接：https://pan.baidu.com/s/1HfCvjt-8o9j5a916IYNVjw  密码：6rec 
 
-
 ## 图像分割网络相关
 - **语义分割前言** 链接：https://pan.baidu.com/s/1cwxe2wbaA_2DqNYADq3myA 密码：zzij
 - **转置卷积** 链接：https://pan.baidu.com/s/1A8688168fuWHyxJQtzupHw 密码：pgnf
@@ -50,10 +49,8 @@
 - **DeepLab V3** 链接：https://pan.baidu.com/s/1WVBgc2Ld13D0_dkHGwhTpA 密码：m54m
 - **U2Net**  链接：https://pan.baidu.com/s/1ekbEm4dsjlFamK8dCs8yfA  密码：472j
 
-
 ## 实例分割
 - **Mask R-CNN** 链接：https://pan.baidu.com/s/1JpQ7ENEv_x9A1-O_NpjwYA 密码：1t4i
 
 ## 关键点检测
 - **HRNet** 链接: https://pan.baidu.com/s/1-8AJdU82K1j70KZK_rN7aQ  密码: t4me
-
