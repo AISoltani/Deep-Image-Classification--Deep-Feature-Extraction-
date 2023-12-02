@@ -4,7 +4,6 @@ np.random.seed(0)
 
 colors = np.array(['blue', 'black'])
 
-
 def plot_clusters(data, cls, clusters, title=""):
     if cls is None:
         c = [colors[0]] * data.shape[0]
@@ -60,7 +59,6 @@ def k_means(data, k, dist=np.mean):
         step += 1
 
     return clusters
-
 
 def main():
     x1, y1 = [np.random.normal(loc=1., size=150) for _ in range(2)]
