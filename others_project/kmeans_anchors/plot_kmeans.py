@@ -1,3 +1,5 @@
+# Import Libraries
+
 import numpy as np
 from matplotlib import pyplot as plt
 np.random.seed(0)
