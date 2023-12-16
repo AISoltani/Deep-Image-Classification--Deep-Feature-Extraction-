@@ -10,6 +10,142 @@ Preface
 
 ## Tutorial directory, click to jump to the corresponding video (will be added later based on learning content)
 
+CNN Networks
+
+LeNet (Completed)
+
+Pytorch Official Demo (LeNet)
+Tensorflow2 Official Demo
+AlexNet (Completed)
+
+AlexNet Network Explanation
+Building AlexNet with Pytorch
+Building AlexNet with Tensorflow2
+VggNet (Completed)
+
+VggNet Network Explanation
+Building VGG Network with Pytorch
+Building VGG Network with Tensorflow2
+GoogLeNet (Completed)
+
+GoogLeNet Network Explanation
+Building GoogLeNet Network with Pytorch
+Building GoogLeNet Network with Tensorflow2
+ResNet (Completed)
+
+ResNet Network Explanation
+Building ResNet Network with Pytorch
+Building ResNet Network with Tensorflow2
+ResNeXt (Completed)
+
+ResNeXt Network Explanation
+Building ResNeXt Network with Pytorch
+MobileNet_V1_V2 (Completed)
+
+MobileNet_V1_V2 Network Explanation
+Building MobileNetV2 Network with Pytorch
+Building MobileNetV2 Network with Tensorflow2
+MobileNet_V3 (Completed)
+
+MobileNet_V3 Network Explanation
+Building MobileNetV3 Network with Pytorch
+Building MobileNetV3 Network with Tensorflow2
+ShuffleNet_V1_V2 (Completed)
+
+ShuffleNet_V1_V2 Network Explanation
+Building ShuffleNetV2 with Pytorch
+Building ShuffleNetV2 with Tensorflow2
+EfficientNet_V1 (Completed)
+
+EfficientNet Network Explanation
+Building EfficientNet with Pytorch
+Building EfficientNet with Tensorflow2
+EfficientNet_V2 (Completed)
+
+EfficientNetV2 Network Explanation
+Building EfficientNetV2 with Pytorch
+Building EfficientNetV2 with Tensorflow
+RepVGG (Completed)
+
+RepVGG Network Explanation
+Building RepVGG with PyTorch
+Building RepVGG with Tensorflow
+Vision Transformer (ViT) (Completed)
+
+Vision Transformer Network Explanation
+Building Vision Transformer with PyTorch
+Building Vision Transformer with Tensorflow
+U-Net (Completed)
+
+U-Net Network Explanation
+Building U-Net with PyTorch
+Building U-Net with Tensorflow
+Mask R-CNN (Completed)
+
+Mask R-CNN Network Explanation
+Building Mask R-CNN with PyTorch
+Building Mask R-CNN with Tensorflow
+YOLO (Completed)
+
+YOLO Network Explanation
+Building YOLO with PyTorch
+Building YOLO with Tensorflow
+StyleGAN (Completed)
+
+StyleGAN Network Explanation
+Building StyleGAN with PyTorch
+Building StyleGAN with Tensorflow
+CycleGAN (Completed)
+
+CycleGAN Network Explanation
+Building CycleGAN with PyTorch
+Building CycleGAN with Tensorflow
+Pix2Pix (Completed)
+
+Pix2Pix Network Explanation
+Building Pix2Pix with PyTorch
+Building Pix2Pix with Tensorflow
+DeepLab (Completed)
+
+DeepLab Network Explanation
+Building DeepLab with PyTorch
+Building DeepLab with Tensorflow
+Neural Style Transfer (Completed)
+
+Neural Style Transfer Network Explanation
+Building Neural Style Transfer with PyTorch
+Building Neural Style Transfer with Tensorflow
+GPT (Completed)
+
+GPT Network Explanation
+[Building GPT with PyTorch](https
+
+
+Instance Segmentation
+
+Mask R-CNN (Completed)
+Mask R-CNN Network Explanation
+Mask R-CNN Source Code Analysis (Pytorch Version)
+Keypoint Detection
+
+HRNet (Completed)
+HRNet Network Explanation
+HRNet Source Code Analysis (Pytorch Version)
+For more related videos, please visit my Bilibili channel
+
+--
+
+Required Environment
+Anaconda3 (recommended)
+python3.6/3.7/3.8
+pycharm (IDE)
+pytorch 1.10 (pip package)
+torchvision 0.11.1 (pip package)
+tensorflow 2.4.1 (pip package)
+--
+
+
+
 * CNN-Networks
   
   * LeNet（已完成）
